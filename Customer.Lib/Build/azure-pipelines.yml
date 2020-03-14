@@ -42,6 +42,6 @@ steps:
   displayName: 'Publish NuGet package'
   inputs:
     command: push
-    publishVstsFeed: 'CI-Feed/Customer.Lib'
+    publishVstsFeed: 'AzureDevOps-CI/CI-Feed'
     allowPackageConflicts: true
   condition: succeeded()
