@@ -1,4 +1,6 @@
-﻿namespace Customer.Lib
+﻿using System;
+
+namespace Customer.Lib
 {
     public class Address
     {
