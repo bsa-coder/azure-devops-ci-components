@@ -1,4 +1,6 @@
-﻿pool:
+﻿trigger: '*'
+
+pool:
   vmImage: 'windows-latest'
 
 variables:
